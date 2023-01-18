@@ -8,17 +8,17 @@
   -[License](#license)
 
   ## Description
-  about to add a Read me
+  Its a way to add Readme
 
   ## Usage
-  added the added
+  I init NPM to create the Readme
 
   ## Installation
-  added to thed list
+  ADD Node.js then npm then added functions
 
   ## Credits
-  node js
+  VS code
 
   ## License
-  node ls
+  N/A
 
