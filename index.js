@@ -41,7 +41,11 @@ inquirer
     message: 'what is the License used ?',
     name: 'License',
 },
-
+{
+  type: 'input',
+  message: 'what is your email address ?',
+  name: 'emailAddress',
+},
 
   ])
   .then((response) => {
