@@ -7,22 +7,25 @@
   -[Credits](#credits)
   -[License](#license)
 
+  ## License:
+  ![GitHub license](https://img.shields.io/badge/license-apfo-blue.svg)
+
 
   ## Description
-  Adding a readMe File via node.js
+  worl
 
   ## Usage
-  install VS then node 16 and npm
+  sued
 
   ## Installation
-  install NPM and add readme file
+  apoti
 
   ## Credits
-  VS code, node.js and npm
+  api
 
   ## License
-  N/A
+  apfo
 
   ## emailAddress
-  Nelson8223@gmail.com
+  nelson@gmail.com
 

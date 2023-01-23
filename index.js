@@ -18,28 +18,28 @@ inquirer
     {
       type: 'input',
       message: 'what is Your Project Description?',
-      name: 'Description',
+      name: 'description',
     },
     {
       type: 'input',
       message: 'what are the credits used?',
-      name: 'Credits',
+      name: 'credits',
     },
     {
         type: 'input',
         message: 'What is the instructions for the Usage?',
-        name: 'Usage',
+        name: 'usage',
 },
 {
     type: 'input',
     message: 'what are the steps for the Installation?',
-    name: 'Installation',
+    name: 'installation',
 },
 
 {
     type: 'input',
     message: 'what is the License used ?',
-    name: 'License',
+    name: 'license',
 },
 {
   type: 'input',
